@@ -20,23 +20,6 @@ python manage.py runserver
 ```
 ## Demo
 
-![Settings Window](https://raw.github.com/ermiasgw/Django-Job-Board/main/screenshots/Screenshot 2023-09-27 at 04-15-32 Job Board — Find Your Job.png)
-
-![Settings Window](https://raw.github.com/ermiasgw/Django-Job-Board/main/screenshots/Screenshot 2023-09-27 at 04-16-27 Job Board — Find Your Job.png)
-
-![Settings Window](https://raw.github.com/ermiasgw/Django-Job-Board/main/screenshots/Screenshot 2023-09-27 at 04-16-27 Job Board — Find Your Job.png)
-
-![Settings Window](https://raw.github.com/ermiasgw/Django-Job-Board/main/screenshots/Screenshot 2023-09-27 at 04-38-08 Job Board — Find Your Job.png)
-
-![Settings Window](https://raw.github.com/ermiasgw/Django-Job-Board/main/screenshots/Screenshot 2023-09-27 at 04-38-34 Job Board — Find Your Job.png)
-
-
-
-
-
-
-
-
 <div align="center">
     <h3>========Thank You=========</h3>
 </div>
